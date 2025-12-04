@@ -1,5 +1,7 @@
 # Learning Log
-This is a running log of things I'm learning to re/build up a stronger software engineering skills a little bit everyday. This is aimed towards re-exploring language and programming foundations so I can build higher competencies towards higher CS and ML targets.
+This is a running log of things I'm learning to re/build up a stronger software engineering skills a little bit everyday. 
+
+This is aimed towards re-exploring programming language and engineering foundations so I can understand the limits of my knowledge and expand them further. I want to know what I know and what I don't know, and put both of them to use to build this tower of babel.
 
 Inspired by [learning](https://github.com/amitness/learning) repo from amitness.
 
